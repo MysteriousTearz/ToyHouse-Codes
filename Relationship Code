@@ -1,0 +1,125 @@
+<!--
+COLORS-
+Character Border Color one: #5c5c5c
+Background Color one: #e8e8e8
+Text Color one & two: #373737
+Character Border Color two: #b8b8b8
+Background Color two: #ffffff
+FA Icons: #d76751
+Bottom Box Text: #d76751
+Bottom Box Border: #ef9975
+Bottom Box BG: #ffeeea
+
+INFO-
+FA = Font Awesome
+Search up Font Awesome if you want to replace the emoji
+Search up Font Awesome animations if you want to change the emoji animation
+-->
+<!-- BEGIN CHARACTER PROFILES -->
+<div class="container">
+    <div class="row">
+        <!-- OUTSIDE Chat Box 1-->
+        <div class="col " style="height: 170px; max-width: 280px; border-radius: 35px; background-color: #5c5c5c; margin-left: 25px;">
+            <!-- INSIDE Chat box 1 -->
+            <div class="col" style="height: 150px; max-width 240px; border-radius: 20px; margin-top: 9px; padding-top: 5px; padding-bottom: 5px; padding-left: 0; padding-right: 5px; background-color: #e8e8e8; border-style: double; border-color:#5c5c5c;">
+                <!-- TEXT Chat Box 1 -->
+                <div class="col" style="height: 142px; max-width 240px; overflow-y: auto; color: #373737; font-family: Tahoma, monospace;">
+                    <!-- INSERT YOUR TEXT BELOW !! -->
+                    <p style="font-size: 17px;"><b>
+                        <!-- INSERT OC TH LINK IN THE "href" QUOTES BELOW-->
+                       <a href="https://toyhou.se/placeholder" style="color: black;">
+                        <!-- IF YOU DO NOT WANT THE LINK IN THE NAME, REMOVE THE CODE LINE ABOVE-->
+                            <!-- CHARACTER NAME ONE -->CHARACTER ONE -<!-- CHARACTER NAME ONE --></a>
+                        </b></p>
+                    <!-- DESCRIPTION/FEELINGS TOWARDS OTHER 1 -->
+                    Insert short bio of the character and how they feel about the other!
+                    <br> This box can scroll !
+                    <!-- END OF TEXT, REMINDER YOU CAN WRITE AS MUCH AS YOU WANT IN THE BOX, THERE IS A SCROLL WHEEL! -->
+                    </div>
+                <!-- END TEXT Chat Box 1 -->
+            </div>
+            <!-- END INSIDE Chat box 1 -->
+        </div>
+        <!-- END OUTSIDE Chat box 1 -->
+    
+        <!-- CHAT TRIANGLE 1 -->
+        <div class="" style="height: 10px; border-left: 35px solid #5c5c5c; border-bottom: 20px solid transparent; border-top: 20px solid transparent; margin-top: 80px;"></div>
+        <!-- END CHAT TRIANGLE 1 -->
+
+        <!-- OUTSIDE PFP Circle -->
+        <div class="col-10" style="height: 160px; max-width: 160px; margin-left: 10px; border-radius: 1000px; background-color: #5c5c5c;">
+            <!-- INSIDE PFP Circle-->
+            <div class="col" style="height: 130px; width: 140px; margin-top: 14px; border-radius: 10000px; background-color: #e8e8e8; background-position:center; background-size: contain; border-style: double; border-color: #5c5c5c ;background-image: url(https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png)">
+            </div>
+            <!-- END INSIDE PFP Circle -->
+        </div>
+        <!-- END OUTSIDE PFP Circle -->
+
+        <!-- FA Friends -->
+        <div class="fa fa-user-group fa-flip" style="margin-left: 23px; margin-top: 40px; font-size: 70px; color: #d76751;"></div>
+        <!-- END FA Friends -->
+        <!-- OUTSIDE PFP CIRCLE -->
+        <div class="col" style="height: 170px; max-width: 170px; margin-left: 25px; border-radius: 1000px; background-color: #b8b8b8;">
+            <!-- INSIDE PFP CIRCLE -->
+            <div class="col" style="height: 140px; width: 140px; margin-top: 14px; border-radius: 10000px; background-color: #e9f2d6; border-style: double; border-color: #b8b8b8;background-size: contain; background-image: url(https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png)">
+            </div>
+            <!-- END INSIDE PFP CIRCLE -->
+        </div>
+        <!-- END OUTSIDE CIRCLE -->
+        <!-- CHAT TRIANGLE 2 -->
+        <div class="" style="height: 10px; border-right: 35px solid #b8b8b8; border-bottom: 20px solid transparent; border-top: 20px solid transparent; margin-top: 80px; margin-left: 7px;"></div>
+        <!-- END CHAT TRIANGLE 2 -->
+        <!-- OUTSIDE Chat Box 2 -->
+            <div class="col" style="height: 170px; max-width: 280px; border-radius: 35px; background-color: #b8b8b8;">
+                <!-- INSIDE Chat box 2 -->
+                <div class="col" style="height: 150px; max-width 240px; border-radius: 20px; margin-top: 9px; background-color: #ffffff; border-style: double; padding-left: 0; padding-right: 0; border-color: #b8b8b8;">
+                <!-- TEXT Chat box 2 -->
+                <div class="col" style="height: 142px; max-width 240px; overflow-y: auto; color: #373737; font-family: Tahoma, monospace; padding-top: 5px;">
+                    <!-- INSERT YOUR TEXT BELOW !! -->
+                    <p style="font-size: 17px;"><b>
+                        <!-- INSERT OC TH LINK IN THE "href" QUOTES BELOW-->
+                       <a href="https://toyhou.se/placeholder" style="color: black;">
+                        <!-- IF YOU DO NOT WANT THE LINK IN THE NAME, REMOVE THE CODE LINE ABOVE-->
+                           <!-- CHARACTER NAME TWO -->CHARACTER TWO -<!-- CHARACTER NAME TWO --></a>
+                        </b></p>
+                    <!-- DESCRIPTION/FEELINGS TOWARDS OTHER 1 -->
+                    Insert short bio of the character and how they feel about the other!
+                    <br> This box can scroll !
+                    <!-- END OF TEXT, REMINDER YOU CAN WRITE AS MUCH AS YOU WANT IN THE BOX, THERE IS A SCROLL WHEEL! -->
+                    </div>
+                <!-- END INSIDE Chat box 2 -->
+            </div>
+        <!-- END OUTSIDE Chat box 2-->
+    </div>
+</div>
+<!-- END CHARACTER PROFILES-->
+<!-- BEGIN  -->
+<div class="container">
+    <div class="row">
+        <div class="col-auto" style="height:60px; margin: auto; margin-top: 10px; border-radius: 18px;  background-color: #ef9975;">
+            <div class="col-auto" style="height: 45px; margin-top: 5px; border-radius: 10px; background-color: #ffeeea; color: black; font-size: 27px; border-style: double; border-color: #ef9975;">
+                
+                <!-- INSERT OC TH LINK IN THE "href" QUOTES BELOW-->
+                <a href="https://toyhou.se/placeholder" style="color: #d76751;">
+                <!-- IF YOU DO NOT WANT THE LINK IN THE NAME, REMOVE THE CODE LINE ABOVE-->
+                    <!-- CHARACTER NAME ONE --><b>CHAR 1</b></a><!-- CHARACTER NAME ONE -->
+                
+                <!-- FA friends -->
+                </b> <div class="fa fa-user-group" style="color: #d76751;"></div> <b>
+                <!-- End FA friends -->
+                
+                <!-- INSERT OC TH LINK IN THE "href" QUOTES BELOW-->
+                <a href="https://toyhou.se/placeholder" style="color: #d76751;">
+                <!-- IF YOU DO NOT WANT THE LINK IN THE NAME, REMOVE THE CODE LINE ABOVE-->
+                    <!-- CHARACTER NAME TWO -->CHAR 2</a><!-- CHARACTER NAME TWO -->
+                </b>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END -->
+<!-- CREDIT, DO NOT REMOVE !!! -->
+<div class="container" style="text-align: center; padding: 5px;">
+    <a href="https://toyhou.se/PeekAKyu" data-bs-toggle="tooltip" title="Code by Peek_A_Kyu" style="color: #d7cfac;"><div class="fa fa-ghost fa-shake" style=" --fa-animation-duration: 5s;"></div></a>
+</div>
+<!-- END CREDIT, DO NOT REMOVE !!! -->
